@@ -7,7 +7,9 @@
 
 ### Description
 
-bee-interaction-database is a repository for interaction and ecological trait data about bees (Hymenoptera). The observations are from the literature and focused on food, parasites, nesting biology, body size and other bee traits.
+bee-interaction-database is a repository for interaction and ecological trait data about bees (Hymenoptera). The observations are from manually recorded from the literature and focused on food, parasites, nesting biology, body size and other bee traits.
+
+Papers that were reviewed can be seen in the [bee interaction database Mendeley project](https://www.mendeley.com/community/bee-interaction-database)
 
 This GitHub repository was cloned from [globalbioticinteractions/template-dataset](https://github.com/globalbioticinteractions/template-dataset), which includes a blank interactions.tsv, README and globi.json. GloBI requires that the interactions.tsv be called interactions.tsv and for the globi.json file to exist. Some column headers of inteteractions.tsv file was modified from the cloned template, but follow the naming conventions.
 
