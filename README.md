@@ -7,7 +7,7 @@
 
 ### Description
 
-bee-interaction-database is a repository for interaction and ecological trait data about bees (Hymenoptera). The observations are from manually recorded from the literature and focused on food, parasites, nesting biology, body size and other bee traits.
+bee-interaction-database is a repository for interaction and ecological trait data about bees (Hymenoptera) extracted manually from the literature. The observations are from manually recorded from the literature and focused on food, parasites, nesting biology, body size and other bee traits.
 
 Papers that were reviewed can be seen in the [bee interaction database Mendeley project](https://www.mendeley.com/community/bee-interaction-database)
 
