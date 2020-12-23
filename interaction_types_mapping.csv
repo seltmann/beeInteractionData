@@ -5,12 +5,12 @@ attached,http://purl.obolibrary.org/obo/NCIT_C52253,interactsWith,http://purl.ob
 Crossbreeding,http://purl.obolibrary.org/obo/NCIT_C88194,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
 drinking,http://purl.obolibrary.org/obo/OMIT_0005582,eats,http://purl.obolibrary.org/obo/RO_0002470
 Colony collapse due to infestation,http://purl.obolibrary.org/obo/OMIT_0026661,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-fight over nest of,http://purl.obolibrary.org/obo/RO_0002574,adjacentTo,http://purl.obolibrary.org/obo/RO_0002220
-phoretic on,http://purl.obolibrary.org/obo/RO_0002574,commensually interacts with,http://purl.obolibrary.org/obo/RO_0002441
-pseudocopulation of,http://purl.obolibrary.org/obo/RO_0002574,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-perches on,http://purl.obolibrary.org/obo/RO_0002574,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
-clinging to for transport into nest,http://purl.obolibrary.org/obo/RO_0002574,hasHost,http://purl.obolibrary.org/obo/RO_0002454
-clinging to,http://purl.obolibrary.org/obo/RO_0002574,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+fight over nest of,,adjacentTo,http://purl.obolibrary.org/obo/RO_0002220
+phoretic on,,commensually interacts with,http://purl.obolibrary.org/obo/RO_0002441
+pseudocopulation of,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+perches on,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+clinging to for transport into nest,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+clinging to,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 parasitized by,http://purl.obolibrary.org/obo/RO_0008504,hasParasite,http://purl.obolibrary.org/obo/RO_0002444
 collects pollen from,,visitsFlowersOf,http://purl.obolibrary.org/obo/RO_0002622
 unaffected by prescence of,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
@@ -20,7 +20,7 @@ sleeping with,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
 skittish to,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
 patrolling and landing close to nest hole of,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
 nectaring on,,visitsFlowersOf,http://purl.obolibrary.org/obo/RO_0002622
-knocking out of,,aggressive behavior,http://purl.obolibrary.org/obo/GO_0002118
+knocking out of,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
 necturing on,,visitsFlowersOf,http://purl.obolibrary.org/obo/RO_0002622
 nectar stealing of,,visitsFlowersOf,http://purl.obolibrary.org/obo/RO_0002622
 inhabiting nest of,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
